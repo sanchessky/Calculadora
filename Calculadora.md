@@ -1,3 +1,6 @@
+
+```python
+
 <!DOCTYPE calculadora>
 <html lang="en">
 <head>
@@ -132,3 +135,5 @@
     </script>
 </body>
 </html>
+
+```python
